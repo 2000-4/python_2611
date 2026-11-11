@@ -50,3 +50,5 @@ for row in ws2['D5' : 'F8'] :
 
 
 print(ws2['A1'].value)
+
+w2.save('test.xlsx')

@@ -26,3 +26,4 @@ try :
     
 except UnicodeDecodeError:
     print('인코딩 방식이 맞지 않아 오류 발생')
+
