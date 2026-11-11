@@ -132,3 +132,4 @@ from collections import Counter
 # 문자열에서 각 글자의 개수를 셈
 print(Counter('apple'))
 '''
+
